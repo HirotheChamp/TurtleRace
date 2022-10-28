@@ -9,7 +9,7 @@
 
 
 ## Background
-Turtle race game made using Java.
+Turtle race game made using python.
 
 
 
@@ -19,7 +19,7 @@ Turtle race game made using Java.
 
 ## Technologies Used
 
-* Java 
+* Python
 
 
 
