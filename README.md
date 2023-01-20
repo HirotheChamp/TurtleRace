@@ -9,7 +9,7 @@
 
 
 ## Background
-Turtle race game made using python.
+Simple Turtle race game made using python.
 
 
 
